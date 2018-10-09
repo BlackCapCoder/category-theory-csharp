@@ -1,0 +1,11 @@
+/home/blackcap/tmp/ctsharp/obj/Debug/netcoreapp2.1/ctsharp.csprojAssemblyReference.cache
+/home/blackcap/tmp/ctsharp/obj/Debug/netcoreapp2.1/ctsharp.csproj.CoreCompileInputs.cache
+/home/blackcap/tmp/ctsharp/obj/Debug/netcoreapp2.1/ctsharp.AssemblyInfoInputs.cache
+/home/blackcap/tmp/ctsharp/obj/Debug/netcoreapp2.1/ctsharp.AssemblyInfo.cs
+/home/blackcap/tmp/ctsharp/bin/Debug/netcoreapp2.1/ctsharp.deps.json
+/home/blackcap/tmp/ctsharp/bin/Debug/netcoreapp2.1/ctsharp.runtimeconfig.json
+/home/blackcap/tmp/ctsharp/bin/Debug/netcoreapp2.1/ctsharp.runtimeconfig.dev.json
+/home/blackcap/tmp/ctsharp/bin/Debug/netcoreapp2.1/ctsharp.dll
+/home/blackcap/tmp/ctsharp/bin/Debug/netcoreapp2.1/ctsharp.pdb
+/home/blackcap/tmp/ctsharp/obj/Debug/netcoreapp2.1/ctsharp.dll
+/home/blackcap/tmp/ctsharp/obj/Debug/netcoreapp2.1/ctsharp.pdb
